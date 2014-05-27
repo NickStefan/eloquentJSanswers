@@ -1,5 +1,7 @@
+// Chapter 5 high order functioncs
+//
 
-//chapter exercises
+// end-of-chapter exercises
 //
 
 var ancestry = JSON.parse(ANCESTRY_FILE);
@@ -115,8 +117,14 @@ function some(array,f){
 
 console.log(some([NaN,NaN,5],isNaN))
 
+
+////////////////////////////
+
 //chapter examples
 //
+
+
+
 function filter(array, test) {
 	var passed = [];
 	for (var i = 0; i < array.length; i++){

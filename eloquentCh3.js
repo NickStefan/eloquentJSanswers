@@ -1,3 +1,9 @@
+// chapter 3 functions
+//
+
+// end-of-chapter exercises
+//
+
 //min
 function min(arg1,arg2){
 	if (arg1 > arg2)

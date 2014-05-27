@@ -1,3 +1,9 @@
+// chapter 2 program structure
+//
+
+// end-of-chapter exercises
+//
+
 
 //triangle
 var container = '';

@@ -1,3 +1,9 @@
+// Chapter 4 data structures objects and arrays
+//
+
+// end-of-chapter exercises
+//
+
 //sum of a range
 function range(start,end,step){
 
